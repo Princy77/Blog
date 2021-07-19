@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,100;1,400&display=swap');
+
+section{
+	margin: 10px 80px;
+
+}
+
+img{
+    position: relative;
+    width: 1920px;
+    max-width: 100%;
+    margin: auto;
+    height: 710px;
+}
+
+button{
+	position: absolute;
+	top: 50%;
+	margin-left: 950px;
+
+}
+
+}
+
+.sanm{
+	margin-top: 100px;
+}
+
+.sanm .dvanm{
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 30px;
+}
+
+.sanm .dvanm .g img{
+	height: 300px;
+	width: 500px; 
+}
+
+.sanm .dvanm .d{
+	margin-left: 40px;
+	max-width: 50%;
+}
+
+.sanm .dvanm .d p.dt{
+	color: grey;
+}
+
+h1.tt{
+	font-family: 'Qahiri', sans-serif;
+}
+
+h4{
+	font-family: 'Roboto Mono', monospace;	
+}
